@@ -1,5 +1,5 @@
 # Enbuyuk_Enkucuk-bulma-dizi-olmadan
-www.patika.dev Dizi olmadan en buyuk en kuvuk bulma
+www.patika.dev Dizi olmadan en buyuk en kucuk bulma
 
 
 
